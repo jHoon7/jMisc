@@ -1,2 +1,2 @@
 # jMisc
-Random assortment of tools, apps, and side-projects created from boredom. 
+Random assortment of tools, apps, and side-projects created out of boredom. 
